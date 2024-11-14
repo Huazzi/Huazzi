@@ -11,20 +11,20 @@
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" />
+    <img width="400" src="https://streak-stats.demolab.com?user=Huazzi&theme=transparent&hide_border=true" />
 </p>
 <p align="center">
     <!-- https://wakatime.com/share/embed -->
-    <img width="700" src="https://wakatime.com/share/@Xiaokang2022/9e225507-6273-4967-b1c9-409f043a94a5.svg" />
+    <img width="700" src="https://wakatime.com/share/@Huazzi/374537d5-8b99-4f59-803b-2ae56d7ec833.svg" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Huazzi&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Huazzi&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
